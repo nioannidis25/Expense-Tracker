@@ -1,15 +1,20 @@
 # Expense Tracker 
 
-A finance dashboard designed to track and analyze monthly expenses from April 24' to April 25'. This project focuses on visualizing spending patterns and identifying opportunities to save more effectively.
+A Python-based data analysis project focused on tracking monthly expenses and understanding spending habits. The goal is to gain better control over personal finances by identifying trends and areas of potential overspending.
+
 
 ## Tools Used
 - Python
+  - pandas
+  - matplotlib
 
 ## Key Features
-- Dynamic dashboard with filters by category and month
-- Visual breakdown of expenses (pie charts, bar graphs)
-- Monthly totals and comparisons to previous months
-- Highlights overspending areas
+- Monthly spending was highest in categories like **rent** and **food and drink**.
+- **Entertainment** and **Dining Out** had frequent spikes, especially on weekends.
+- Created visual summaries to highlight:
+  - Total expenses per month
+  - Spending per category
+  - Daily trends and outliers
 
 ## Files Included
 - transactions_export_2025-04-13_cash-wallet.csv
