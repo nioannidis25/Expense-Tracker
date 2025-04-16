@@ -8,7 +8,7 @@ A Python-based data analysis project focused on tracking monthly expenses and un
   - pandas
   - matplotlib
 
-## Key Features
+## Key Insights
 - Monthly spending was highest in categories like **rent** and **food and drink**.
 - **Entertainment** and **Dining Out** had frequent spikes, especially on weekends.
 - Created visual summaries to highlight:
